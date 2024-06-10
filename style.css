@@ -1,3 +1,9 @@
+*,
+::after,
+::before{
+    box-sizing: border-box;
+}
+
 .box {
     width: 350px;
     height: 220px;
